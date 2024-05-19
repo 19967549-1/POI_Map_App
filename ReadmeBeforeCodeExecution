@@ -1,0 +1,14 @@
+19967549 Avery Wong:
+Prototype User Registration Activity:
+Problems you may encounter:
+During project building:
+- Some nonexistent class related Java runtime exceptions may occur. 
+Known exceptions include but limited to the following exceptions: Nullpointer exceptions (Logcat output).
+
+The above may occur sometmes during the POI_Locator app's entire building phase. 
+Upon testing each indivual activity class through building them and then running them individually, I found I could still execute at least the prototype user registration activity class correctly. 
+Dont know why the Google Maps permissions request dialogue does not appear though.(Will have to look into this and the above problems in my team's testing phase).
+
+Dont know if the rest of my team have encountered any errors and/or exceptions when building and/or excuting their respective parts.
+
+
